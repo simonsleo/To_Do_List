@@ -5,6 +5,8 @@ remove them asap
 Using gpu device 0: Tesla P100-SXM2-16GB (CNMeM is disabled, cuDNN not available)
 
 ```
+fixed
+
 2. office,device gpu is  not available.
 ```
 >>> import theano
@@ -14,3 +16,9 @@ WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be remove
 WARNING (theano.sandbox.cuda): CUDA is installed, but device gpu is not available  (error: Unable to get the number of gpus available: CUDA driver version is insufficient for CUDA runtime version)
 
 ```
+
+3. how to do fine-tunning in machine learning
+https://www.evernote.com/shard/s118/nl/13408391/4b71e179-2ec8-4828-9f94-26c5403d5e62/
+
+4. regression based on multivariate time series
+https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57
