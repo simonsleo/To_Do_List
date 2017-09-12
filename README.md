@@ -18,7 +18,9 @@ WARNING (theano.sandbox.cuda): CUDA is installed, but device gpu is not availabl
 ```
 
 3. how to do fine-tunning in machine learning
+
 https://www.evernote.com/shard/s118/nl/13408391/4b71e179-2ec8-4828-9f94-26c5403d5e62/
 
 4. regression based on multivariate time series
+
 https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57
