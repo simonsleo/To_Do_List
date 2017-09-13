@@ -8,3 +8,13 @@ Classification-based Financial Markets Prediction using Deep Neural Networks
 https://arxiv.org/abs/1603.08604
 
 2. Dilated CNNs
+
+They also use 'reflection padding' to fill the buffer zone by reflect the image about each edge.
+dilation in the convolutional layers  to increase its receptive field
+Multi-Scale Context Aggregation by Dilated Convolutions
+https://arxiv.org/abs/1511.07122
+
+3. Camparison of dilated CNN and factorisation 
+
+http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/
+
