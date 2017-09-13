@@ -26,4 +26,12 @@ https://www.evernote.com/shard/s118/nl/13408391/4b71e179-2ec8-4828-9f94-26c5403d
 https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-multivariate-time-series-ab016ce70f57
 
 5. What is the connection between Multi-level Clustering, time blocks referred in the book and multi-scale CNN?
+
 The book "Time－Series_Prediction_and_Applications_－__A_Machine_Intelligence_Approach" 
+
+6. how to define the prediction error of time series.
+
+7. Time series forcasting with python
+
+Deep Time Series Forecasting with Python 
+http://www.doc88.com/p-2972802120200.html
