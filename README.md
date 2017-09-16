@@ -28,6 +28,8 @@ https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-2-1-mult
 5. What is the connection between Multi-level Clustering, time blocks referred in the book and multi-scale CNN?
 
 The book "Time－Series_Prediction_and_Applications_－__A_Machine_Intelligence_Approach" 
+The author proposed dynamic stochastic automaton to predict the time series. state transition is used to predicit time series??
+What is the theory?
 
 6. how to define the prediction error of time series.
 
