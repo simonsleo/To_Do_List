@@ -18,3 +18,6 @@ https://arxiv.org/abs/1511.07122
 
 http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/
 
+4. back-propagation NATURE
+http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
+
