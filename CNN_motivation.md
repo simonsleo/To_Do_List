@@ -9,8 +9,8 @@ Additionally, two basic cell types have been identified: Simple cells respond ma
 
 The animal visual cortex being the most powerful visual processing system in existence, it seems natural to emulate its behavior. Hence, many neurally-inspired models can be found in the literature. To name a few: the NeoCognitron [Fukushima], HMAX [Serre07] and LeNet-5 [LeCun98], which will be the focus of this tutorial.
 
-**
+```
 Possible solutions:
 
 HC may act as complex cells, which have large receptive fields. It seems reasonable to place HC in the location of complex cells.
-**
+```
