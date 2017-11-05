@@ -7,3 +7,8 @@ Hilbert curves cut a photo into pieces.
 
 This picture shows different levels of Hilbert curves on one image.
 ![alt text](http://fineartamerica.com/featured/hilbert-curves-of-order-1-to-10-martin-krzywinski.html)
+
+# description 
+
+- the spatial coherence of nearby pixels
+--preserves locality quite well
